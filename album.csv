@@ -1,0 +1,158 @@
+﻿id_album;nome_album;quant_musicas;lancamento;grupos_id
+1;Happiness;1;2014;1
+2;Be Natural;1;2014;1
+3;Wish Tree;1;2015;1
+4;Would U;1;2017;1
+5;Rebirth;1;2017;1
+6;Our Beloved BoA #4;1;2020;1
+7;The Red;10;2015;1
+8;Perfect Velvet;9;2017;1
+9;Ice Cream Cake;6;2015;1
+10;The Velvet;5;2016;1
+11;Russian Roulette;7;2016;1
+12;Rookie;6;2017;1
+13;RBB;5;2018;1
+14;The Reve Festival;6;2019;1
+15;The Reve Festival;6;2019;1
+16;Queendom;6;2021;1
+17;The Red Summer;5;2017;1
+18;Summer Magic;8;2018;1
+19;The Album;8;2020;2
+20;Square Up;4;2018;2
+21;Kill This Love;5;2019;2
+22;How You Like That;1;2020;2
+23;Square One;2;2016;2
+24;Square Two;2;2016;2
+25;As If It's Your Last;1;2017;2
+26;Twicetagram;13;2017;3
+27;Merry & Happy;15;2017;3
+28;Eyes Wide Open;13;2020;3
+29;TWICEcoaster: LANE 2;11;2017;3
+30;Summer Nights;9;2018;3
+31;"The Year of ""Yes""";9;2018;3
+32;The story Begins;6;2015;3
+33;Page Two;7;2016;3
+34;TWICEcoaster: LANE 1;7;2016;3
+35;Signal;6;2017;3
+36;What is Love?;6;2018;3
+37;Yes or Yes;7;2018;3
+38;Fancy You;6;2019;3
+39;Feel Special;7;2019;3
+40;More & More;7;2020;3
+41;Taste of Love;6;2021;3
+42;Cry For Me;1;2020;3
+43;Dark & Wild;14;2014;4
+44;Wings;15;2016;4
+45;You Never Walk Alone;18;2017;4
+46;Love Youeself: Tear;11;2018;4
+47;Map of Soul: 7;19;2020;4
+48;O!RUL8,2?;10;2013;4
+49;Skool Luv Affair;10;2014;4
+50;Skool Luv Affair Special Addition;12;2014;4
+51;The Most Beautiful Moment in Life, pt.1;9;2015;4
+52;The Most Beautiful Moment in Life, pt.2;9;2015;4
+53;Love Yourself: Her;11;2017;4
+54;Map of the Soul: Persona;7;2019;4
+55;Be Natural;8;2020;4
+56;BTS World Original Sound Sounstrack;13;2019;4
+57;The Most Beautiful Moment In Life: Young Forever;12;2016;4
+58;Love Yourself: Answer I;16;2018;4
+59;Love Yourself: Answer II;10;2018;4
+100;2 cool 4 Skool;9;2013;4
+101;Come Back Home;1;2017;4
+102;MIC Drop;1;2017;4
+103;Fake Love;1;2018;4
+104;Black Swan;1;2020;4
+105;So Cool;12;2011;5
+106;Give It to Me;10;2013;5
+107;Alone;6;2012;5
+108;Touch N Move;6;2014;5
+109;Shake It;7;2015;5
+110;Insane Love;6;2016;5
+111;Loving U;7;2012;5
+112;Sweet and Sour;6;2014;5
+113;Push Push;3;2010;5
+114;Shady Girl;3;2010;5
+115;How Dare You;3;2010;5
+116;We Never Go Alone;1;2010;5
+117;Hot Place;1;2011;5
+118;One More Day;1;2016;5
+119;Lonely;2;2017;5
+120;First' Love & Letter;15;2016;6
+121;Teen, Age;13;2017;6
+122;An Ode;11;2019;6
+123;17 Carat;5;2015;6
+124;Boys Be;5;2015;6
+125;Going Seventeen;8;2016;6
+126;A|1;8;2017;6
+127;You Make My Day;6;2018;6
+128;You Made my Dawn;6;2019;6
+129;Heng:garae;6;2020;6
+130;Your Choice;6;2021;6
+131;Director's Cut;17;2018;6
+132;Semicolon;6;2020;6
+133;Hit;1;2019;6
+134;The SHINee World;12;2008;7
+135;Amigo;15;2009;7
+136;Lucifer;13;2010;7
+137;Hello;16;2010;7
+138;Dream Girl - The Misconceptions of You;9;2013;7
+139;Why So Serious? - The Misconceptions of Me;9;2013;7
+140;The Misconceptions of Us I;10;2013;7
+141;The Misconceptions of Us II;10;2013;7
+142;Odd;11;2015;7
+143;Married to the Music;15;2015;7
+144;1 of 1;9;2016;7
+145;1 and 1;5;2016;7
+146;The Story of Light - Ep.1;5;2018;7
+147;The Story of Light - Ep.2;5;2018;7
+148;The Story of Light - Ep.3;5;2018;7
+149;Don't Call Me;9;2021;7
+200;Atlants;12;2021;7
+201;Replay;5;2008;7
+202;Romeo;6;2009;7
+203;2009, Year of Us;6;2009;7
+204;Sherlock;7;2012;7
+205;Everybody;7;2013;7
+206;Love Like Oxygen;1;2008;7
+207;Bodyguard;1;2010;7
+208;iScreaM Vol.7: Dont't Call Me Remixes;1;2021;7
+209;Identify;11;2014;8
+210;Flight Log: Turbulence;13;2016;8
+211;Present: You;13;2018;8
+212;Present: You & Me Edition;12;2018;8
+213;Breath of Love: Last Piece;10;2020;8
+214;Got It?;6;2014;8
+215;GOT Love;5;2014;8
+216;Just Right;6;2015;8
+217;Mad;7;2015;8
+218;Mad Winter Edition;9;2015;8
+219;Flight Log: Departure;8;2016;8
+220;Flight Log: Arrival;8;2017;8
+221;7 for 7;7;2017;8
+222;Eyes On You;6;2018;8
+223;Spinning Top: Between Security & Insecurity;6;2019;8
+224;Call My Name;6;2019;8
+225;Dye;10;2020;8
+226;Home Run;1;2016;8
+227;One And Only You;1;2018;8
+228;Breath;1;2020;8
+229;Encore;1;2021;8
+230;Girls' Geration;11;2007;9
+231;Baby Baby;12;2008;9
+232;Oh!;11;2010;9
+233;Run Devil Run;13;2010;9
+234;The Boys;12;2011;9
+235;I Got a Boy;10;2013;9
+236;Lion Heart;12;2015;9
+237;Holiday Night;10;2017;9
+238;Gee;5;2010;9
+239;Tell Me You Wish (Genie);6;2009;9
+240;Hoot;5;2010;9
+241;Mr.Mr.;6;2014;9
+242;Into the New Word;3;2007;9
+243;Party;2;2015;9
+244;Kissing You Rhythmer Remix Vol.1;1;2008;9
+245;Dancing Queen;1;2012;9
+246;Catch Me If You Can;2;2015;9
+247;Sailing (0805);1;2016;9
